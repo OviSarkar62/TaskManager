@@ -84,3 +84,17 @@ To set up Task Manager locally, follow these steps:
        npm start
     
 - Access the application. Open your web browser and visit http://localhost:3000 to access the Task Manager application.
+
+## Usage
+
+- Start the project:
+
+       npm start
+ 
+- At first all the team members i.e. Owner, Admins and Employees need to register in the Task Manager.
+- Then the Owner need to login to add projects.
+- After creating projects, the owner need to add members to the project. Only registered members can be added for the projects.
+- The owner can assign roles to the added members.
+- Only Owner and Admin can assign tasks to the employees with due date.
+- Owner, Admins and only the employee who is assigned the particular task can change the task status.
+- When the status will be changed then the connected members will receive the notifications.
