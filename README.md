@@ -4,16 +4,14 @@ Welcome to TaskManager! This project is a simple task management tool that allow
 
 <em> Visit complete live project [TASK MANAGER](https://tsk-manager.vercel.app/login) </em>
 
-<em>
-Owner Email: `ovi@gmail.com`,
-Owner Password: `Iamowner00@`
-</em>
+<em>Owner Email:</em> `ovi@gmail.com`,
+<em>Owner Password:</em> `Iamowner00@`
 
-Admin Email: `mitul@gmail.com`,
-Admin Password: `Iamadmin00@`
+<em>Admin Email:</em> `mitul@gmail.com`,
+<em>Admin Password:</em> `Iamadmin00@`
 
-Employee Email: `utsho@gmail.com`,
-Employee Password: `Iamemployee00@`
+<em>Employee Email:</em> `utsho@gmail.com`,
+<em>Employee Password:</em> `Iamemployee00@`
 
 ## Features
 ### 1. Project Management:
