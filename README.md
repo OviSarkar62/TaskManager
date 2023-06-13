@@ -101,13 +101,13 @@ To set up Task Manager locally, follow these steps:
 
 ## API Endpoints
 
-### User Related
+### - User Related
 
 - [ ] RegisterUser: `POST localhost:4000/api/users/register`
 - [ ] LoginUser: `POST localhost:4000/api/users/login`
 - [ ] GetLoggedInUser: `GET localhost:4000/api/users/get-logged-in-user`
 
-### Project Related
+### - Project Related
 
 - [ ] CreateProject: `POST localhost:4000/api/projects/create-project`
 - [ ] GetAllProjects: `POST localhost:4000/api/projects/get-all-projects`
@@ -118,7 +118,7 @@ To set up Task Manager locally, follow these steps:
 - [ ] AddMemberToProject: `POST localhost:4000/api/projects/add-member`
 - [ ] RemoveMemberFromProject: `POST localhost:4000/api/projects/remove-member`
 
-### Task Related
+### - Task Related
 
 - [ ] CreateTask: `POST localhost:4000/api/tasks/create-task`
 - [ ] GetAllTasks: `POST localhost:4000/api/tasks/get-all-tasks`
