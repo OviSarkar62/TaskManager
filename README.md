@@ -98,3 +98,11 @@ To set up Task Manager locally, follow these steps:
 - Only Owner and Admin can assign tasks to the employees with due date.
 - Owner, Admins and only the employee who is assigned the particular task can change the task status.
 - When the status will be changed then the connected members will receive the notifications.
+
+## API Endpoints
+
+### User Related
+
+- [ ] RegisterUser: `POST localhost:4000/api/users/register`
+- [ ] LoginUser: `POST localhost:4000/api/users/login`
+- [ ] GetLoggedInUser: `GET localhost:4000/api/users/get-logged-in-user`
