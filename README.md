@@ -124,3 +124,10 @@ To set up Task Manager locally, follow these steps:
 - [ ] GetAllTasks: `POST localhost:4000/api/tasks/get-all-tasks`
 - [ ] UpdateTask: `POST localhost:4000/api/tasks/update-task`
 - [ ] DeleteTask: `POST localhost:4000/api/tasks/delete-task`
+
+### Notification Related
+
+- [ ] AddNotification: `POST localhost:4000/api/notifications/add-notification`
+- [ ] GetAllNotifications: `GET localhost:4000/api/notifications/get-all-notifications`
+- [ ] MarkNotificationAsRead: `POST localhost:4000/api/notifications/mark-as-read`
+- [ ] DeleteAllNotifications: `DELETE localhost:4000/api/notifications/delete-all-notifications`
