@@ -8,6 +8,10 @@ Owner Email: `ovi@gmail.com`
 
 Owner Password: `Iamowner00@`
 
+Admin Email: `mitul@gmail.com`
+
+Admin Password: `Iamadmin00@`
+
 
 ## Features
 ### 1. Project Management:
