@@ -13,6 +13,14 @@ Welcome to TaskManager! This project is a simple task management tool that allow
 <em>Employee Email:</em> `utsho@gmail.com`,
 <em>Employee Password:</em> `Iamemployee00@`
 
+### Contents
+
+- [Features](#features)
+- [Stack](#stack)
+- [Installation](#installation) 
+- [Usage](#usage) 
+- [API Endpoints](#api-endpoints) 
+
 ## Features
 ### 1. Project Management:
 
