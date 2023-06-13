@@ -4,15 +4,6 @@ Welcome to TaskManager! This project is a simple task management tool that allow
 
 <em> Visit complete live project [TASK MANAGER](https://task-manager-4xtp.onrender.com/login) </em>
 
-<em>Owner Email:</em> `ovi@gmail.com`,
-<em>Owner Password:</em> `Iamowner00@`
-
-<em>Admin Email:</em> `mitul@gmail.com`,
-<em>Admin Password:</em> `Iamadmin00@`
-
-<em>Employee Email:</em> `utsho@gmail.com`,
-<em>Employee Password:</em> `Iamemployee00@`
-
 ## Contents
 
 - [Features](#features)
