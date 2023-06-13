@@ -61,13 +61,15 @@ To set up Task Manager locally, follow these steps:
     
 - Install the dependencies for the client: 
 
-       npm i react-router-dom redux react-redux axios antd @reduxjs/toolkit react-hot-toast
+       npm i react-router-dom redux react-redux axios antd @reduxjs/toolkit moment
     
 - Create a .env file in the root directory with the following environment variables:
 
-       mongo_url = mongodb+srv://<user>:<pass>@cluster0.l17quyr.mongodb.net/database
+       DB_URL = mongodb+srv://<user>:<pass>@cluster0.l17quyr.mongodb.net/database
 
-       jwt_secret = A_Secret_Value
+       JWT_SECRET = A_Secret_Value
+       
+       PORT = 4000
 
 - Start the server: 
 
@@ -81,4 +83,4 @@ To set up Task Manager locally, follow these steps:
 
        npm start
     
-- Access the application. Open your web browser and visit http://localhost:3000 to access the Project-Tracker application.
+- Access the application. Open your web browser and visit http://localhost:3000 to access the Task Manager application.
