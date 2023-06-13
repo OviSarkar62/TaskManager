@@ -26,4 +26,4 @@ Welcome to TaskManager! This project is a simple task management tool that allow
 - React - Frontend framework for building user interfaces
 - Node.js - JavaScript runtime environment for building scalable server-side applications
 - JWT - JSON Web Token for user authentication and authorization
-- BcryptJS - Password hashing library for secure password storage
+- Bcryptjs - Password hashing library for secure password storage
